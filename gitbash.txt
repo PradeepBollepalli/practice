@@ -9,3 +9,5 @@ another practice
 donate blood
 save water
 plant trees
+kubernetes
+git
