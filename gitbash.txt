@@ -15,3 +15,4 @@ git bash
 git hub
 environment
 end
+adding file to working area from remote to repository.
