@@ -11,3 +11,5 @@ save water
 plant trees
 kubernetes
 git
+git bash
+git hub
